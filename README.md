@@ -28,7 +28,7 @@ calculator/
 
 Clone this repository:
 
-git clone https://github.com/your-username/calculator.git
+git clone https://github.com/reemiii-codyy/Calculator-Python-.git
 
 
 Navigate to the project folder:
